@@ -38,7 +38,8 @@ This project aims to:
 
 ## 🧠 Pipeline Summary  
 
-[Research Workflow](https://drive.google.com/file/d/1Rw2PXF55piJR0m0toVGrOpxdiOUjfAno/view?usp=drive_link)
+![MSK-AI Research Workflow](figure/research_workflow.png)
+
 
 ### **Step 1 — Data Acquisition & Preprocessing**
 * ~100 H&E WSIs of soft tissue tumors
@@ -166,6 +167,7 @@ This README serves as a **scientific and architectural reference** for:
 ## 👤 Author
 
 **Muhammad Nur Fahmi, MD**
+
 Physician–Researcher
 
 ---
