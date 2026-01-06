@@ -38,7 +38,7 @@ This project aims to:
 
 ## 🧠 Pipeline Summary  
 
-![MSK-AI Research Workflow](figure/research_workflow.png)
+![MSK-AI Research Workflow](figure/Research Workflow.png)
 
 
 ### **Step 1 — Data Acquisition & Preprocessing**
